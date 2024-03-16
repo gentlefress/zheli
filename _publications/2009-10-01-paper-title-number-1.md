@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/vip
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-27
-venue: 'Journal 1'
+venue: 'ACM MM'
 paperurl: 'http://gentlefress.github.io/zheli/files/vip.pdf'
 citation: '@inproceedings{li2023enhancing,
   title={Enhancing Sentence Representation with Visually-supervised Multimodal Pre-training},
