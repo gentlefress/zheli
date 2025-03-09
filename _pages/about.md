@@ -11,11 +11,16 @@ I graduated from the School of Biology, Hunan University in 2021. And now I'm a 
 My research interests include motion generation, 3D vision model, and multimodal learning.
 
 News
+
 2025-02: One paper got accepted by CVPR 2025!
 2025-01: One paper got accepted by ICLR 2025!
 2024-03: One paper got accepted by ICME 2024!
 2024-02: Two papers got accepted by CVPR 2024!
 2023-11: One paper got accepted by ICASSP 2023!
 2023-07: One paper got accepted by ACM MM 2023!
+
+
+
+
 
 [Email](keycharon0122@gmail.com) / [Github](https://github.com/gentlefress) / [Wechat](../images/wechat.jpg)
